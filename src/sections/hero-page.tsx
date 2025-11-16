@@ -94,6 +94,7 @@ export default function Hero() {
             sx={{
               textAlign: 'center',
               color: 'text.secondary',
+              paddingBottom:'16px',
               width: { sm: '100%', md: '80%' },
             }}
           >
