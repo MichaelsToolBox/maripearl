@@ -55,8 +55,6 @@ export default function AppAppBar() {
             <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
               <Button variant="text" color="info" size="small" onClick={() => scrollToSection('features')}>{t('app-bar.projects')}</Button>
               <Button variant="text" color="info" size="small" onClick={() => scrollToSection('principles')}>{t('app-bar.principles')}</Button>
-              <Button variant="text" color="info" size="small" onClick={() => scrollToSection('download')}>{t('app-bar.download')}</Button>
-              <Button variant="text" color="info" size="small" onClick={() => scrollToSection('latest')}>{t('app-bar.latest')}</Button>
               <Button variant="text" color="info" size="small" onClick={() => scrollToSection('testimonials')}>{t('app-bar.testimonials')}</Button>
               <Button variant="text" color="info" size="small" sx={{ minWidth: 0 }} onClick={() => scrollToSection('faq')}>{t('app-bar.faq')}</Button>
             </Box>
