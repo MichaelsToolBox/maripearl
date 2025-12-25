@@ -1,18 +1,18 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Features",
-      "principles": "Principles",
-      "download": "Download",
+      "projects": "Über mich",
+      "principles": "Hunde",
+      "download": "Erfolge",
       "latest": "Latest",
-      "testimonials": "Testimonials",
-      "faq": "FAQ"
+      "testimonials": "Erfolge",
+      "faq": "Contact"
     },
     "hero-page": {
       "subtitle": "Chihuahua Studio",
-      "gift": "Mari",
+      "gift": "von Maripearl",
       "bytes": "",
-      "productions": "Pearl"
+      "productions": ""
     },
     "download-page": {
       "title": "Download",
