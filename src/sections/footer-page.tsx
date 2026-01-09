@@ -1,5 +1,4 @@
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import SitemarkIcon from '../utils/styles/app-bar-icon';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import Typography from '@mui/material/Typography';
 import IconButton from '@mui/material/IconButton';
@@ -22,8 +21,7 @@ export default function Footer() {
       <Box sx={{display: 'flex', flexDirection: { xs: 'column', sm: 'row' }, width: '100%', justifyContent: 'space-between'}}>
         <Box sx={{display: 'flex', flexDirection: 'column', gap: 4, minWidth: { xs: '100%', sm: '60%' }}}>
           <Box sx={{ width: { xs: '100%', sm: '60%' } }}>
-            <SitemarkIcon />
-            <Typography variant="body2" gutterBottom sx={{ fontWeight: 600, mt: 2, mb: 4 }}>
+{}            <Typography variant="body2" gutterBottom sx={{ fontWeight: 600, mt: 2, mb: 4 }}>
               {t("footer-page.left-title")}
             </Typography>
               <Button variant="contained" color="primary" size="medium" onClick={() => { window.open( youtubeLink , '_blank', 'noopener,noreferrer'); }}>

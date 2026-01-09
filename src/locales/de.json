@@ -49,12 +49,12 @@
     },
     "faq":{
       "title": "Häufig gestellte Fragen",
-      "subtitle1": "How do I contact customer support if I have a question or issue",
-      "description1": "You can reach our customer support team by emailing: ",
-      "subtitle2": "What makes your product stand out from others in the market?",
-      "description2": "Our product distinguishes itself through its adaptability, durability, and innovative features. We prioritize user satisfaction and continually strive to exceed expectations in every aspect",
-      "subtitle3": "How can I support GiftBytesProductions ?",
-      "description3": "You are helping us already by just trying out our projects and recommending it. Otherwise you can subscribe to our youtube channel and engage with the community. For additional support you also donate us directly through PayPal"
+      "subtitle1": "Wie kann ich sie kontaktieren ?",
+      "description1": "",
+      "subtitle2": "Wie kann ich sie kontaktieren ?",
+      "description2": "",
+      "subtitle3": "Wie kann ich sie kontaktieren ?",
+      "description3": ""
     },
     "feature-page": {
     "title": "Unsere Hunde",
@@ -76,7 +76,7 @@
     },
     "footer-page":{
       "left-title": "Kontakt",
-      "left-button": "Subscribe for free",
+      "left-button": "E-Mail",
       "policy": "Privacy Policy",
       "terms": "Terms of service",
       "copyright": "Copyright © ",
