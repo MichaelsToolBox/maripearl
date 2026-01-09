@@ -4,7 +4,6 @@ import ColorModeIconDropdown from '../theme/mode-icon-dropdown';
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded';
 import { StyledToolbar } from '../utils/styles/styled-toolbar';
 import { Language } from '../utils/types/language-types';
-import SitemarkIcon from '../utils/styles/app-bar-icon';
 import IconButton from '@mui/material/IconButton';
 import Container from '@mui/material/Container';
 import MenuIcon from '@mui/icons-material/Menu';
@@ -51,7 +50,7 @@ export default function AppAppBar() {
       <Container maxWidth="lg">
         <StyledToolbar variant="dense" disableGutters>
           <Box sx={{ flexGrow: 1, display: 'flex', alignItems: 'center', px: 0 }}>
-            <SitemarkIcon />
+            {/*<SitemarkIcon />*/}
             <Box sx={{ display: { xs: 'none', md: 'flex' } }}>
               <Button variant="text" color="info" size="small" onClick={() => scrollToSection('features')}>{t('app-bar.projects')}</Button>
               <Button variant="text" color="info" size="small" onClick={() => scrollToSection('principles')}>{t('app-bar.principles')}</Button>

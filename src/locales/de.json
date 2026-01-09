@@ -1,186 +1,187 @@
 {
   "translation": {
     "app-bar": {
-      "projects": "Funktionen",
-      "principles": "Prinzipien",
-      "download": "Herunterladen",
-      "latest": "Aktuelles",
-      "testimonials": "Testimonials",
-      "faq": "FAQ"
+      "projects": "Hunde",
+      "principles": "Über mich",
+      "download": "Erfolge",
+      "latest": "Latest",
+      "testimonials": "Erfolge",
+      "faq": "Kontakt"
     },
     "hero-page": {
-      "subtitle": "Wir sind ein deutsches Kreativ-Entwicklungsstudio, das die neueste Technologie nutzt, um fesselnde und zugängliche Videospiele, Apps und Medienerlebnisse für jedermann zu entwickeln",
-      "gift": "Gift",
-      "bytes": "Bytes",
-      "productions": "Productions"
+      "subtitle": "Chihuahua Studio",
+      "gift": "von Maripearl",
+      "bytes": "",
+      "productions": ""
     },
     "download-page": {
-      "title": "Herunterladen",
-      "subtitle": "Hier können Sie unsere Projekte herunterladen und ansehen"
+      "title": "Download",
+      "subtitle": "Here you can download and view our projects"
     },
-    "tiers": {
+    "tiers":{
       "title1": "Dev Logs",
-      "price1": "Kostenlos",
-      "subheader1": "Verfügbar",
-      "description10": "Videoproduktion in Studioqualität",
-      "description11": "Tiefe Einblicke in unseren Code und unser Design",
-      "description12": "Direkte Interaktion mit unseren Entwicklern",
-      "description13": "Weltweit auf YouTube verfügbar",
-      "buttontext1": "Kostenloses Abo",
+      "price1":" Free",
+      "subheader1": "Available",
+      "description10": "Studio-quality video production",
+      "description11": "Deep dives into our code and design",
+      "description12": "Direct interaction with our developers",
+      "description13": "Accessible worldwide on YouTube",
+      "buttontext1": "Free Sub",
       "title2": "TouchSlider",
-      "price2": "Kostenlos",
-      "subheader2": "Empfohlen",
-      "description20": "Für IOS und Android erhältlich'",
-      "description21": "Kostenlos spielbar ohne versteckte Kosten",
-      "description22": "Unterstützt alte mobile Geräte",
-      "description23": "Einfaches Spiel für zwischendurch",
-      "description24": "Präsentiert in Dev Logs",
-      "description25": "Unterstützung",
-      "buttontext21": "IOS herunterladen",
-      "buttontext22": "Android herunterladen",
-      "title3": "Kommendes Projekt",
-      "price3": "Kostenlos",
-      "subheader3": "In Arbeit",
-      "description30": "Verfügbar für Windows, Macos und Linux",
-      "description31": "Vertrieb über Steam und den Apple Store",
-      "description32": "In verschiedenen Sprachen zugänglich",
-      "description33": "Unterstützung",
-      "buttontext3": "Wird noch bekannt gegeben"
+      "price2": "Free",
+      "subheader2": "Recommended",
+      "description20": "Available on IOS and Android'",
+      "description21": "Free to play with no hidden cost",
+      "description22": "Supports old mobile devices",
+      "description23": "Simple game for any time and day",
+      "description24": "Presented in dev logs",
+      "description25": "Support",
+      "buttontext21": "Download IOS",
+      "buttontext22": "Download Android",
+      "title3": "Chronomaze",
+      "price3": "Free",
+      "subheader3": "In progress",
+      "description30": "Available for Windows, Macos and Linux",
+      "description31": "Distribution through Steam, Itch.io and Apple Store",
+      "description32": "Puzzle game",
+      "description33": "Support",
+      "buttontext3": "To be announced"
     },
-    "faq": {
+    "faq":{
       "title": "Häufig gestellte Fragen",
-      "subtitle1": "Wie kann ich den Kundendienst kontaktieren, wenn ich eine Frage oder ein Problem habe?",
-      "description1": "Sie können unser Kundendienstteam per E-Mail kontaktieren: ",
-      "subtitle2": "Was unterscheidet Ihr Produkt von anderen auf dem Markt?",
-      "description2": "Unser Produkt zeichnet sich durch seine Anpassungsfähigkeit, Langlebigkeit und innovative Funktionen aus. Wir priorisieren die Zufriedenheit der Nutzer und streben kontinuierlich danach, die Erwartungen in jeder Hinsicht zu übertreffen",
-      "subtitle3": "Wie kann ich GiftBytesProductions unterstützen?",
-      "description3": "Sie helfen uns bereits, indem Sie unsere Projekte ausprobieren und weiterempfehlen. Ansonsten können Sie unseren YouTube-Kanal abonnieren und sich in der Community engagieren. Für zusätzliche Unterstützung können Sie uns auch direkt über PayPal spenden"
+      "subtitle1": "How do I contact customer support if I have a question or issue",
+      "description1": "You can reach our customer support team by emailing: ",
+      "subtitle2": "What makes your product stand out from others in the market?",
+      "description2": "Our product distinguishes itself through its adaptability, durability, and innovative features. We prioritize user satisfaction and continually strive to exceed expectations in every aspect",
+      "subtitle3": "How can I support GiftBytesProductions ?",
+      "description3": "You are helping us already by just trying out our projects and recommending it. Otherwise you can subscribe to our youtube channel and engage with the community. For additional support you also donate us directly through PayPal"
     },
     "feature-page": {
-      "title": "Funktionen",
-      "subheader": "Wir haben uns der Schaffung von hochwertigen digitalen Erlebnissen verschrieben, die zugänglich, vielseitig und von unserer Community mitgestaltet sind. So gehen wir unsere Projekte an.",
-      "items": [
-        {
-          "title": "Nahtlos über alle Geräte",
-          "description": "Ihr Erlebnis sollte nicht an einen Bildschirm gebunden sein. Unsere Projekte sind sorgfältig optimiert, um reibungslos auf jedem Gerät zu laufen – von Desktops und Laptops bis hin zu Tablets und Mobiltelefonen, alten wie neuen."
-        },
-        {
-          "title": "Kreativität ohne Kosten",
-          "description": "Wir glauben, dass großartige Software und Unterhaltung für jeden zugänglich sein sollten. Die meisten unserer Projekte sind völlig kostenlos, während Premium-Software zu einem minimalen, fairen Preis angeboten wird."
-        },
-        {
-          "title": "Von der Community gestützte Unterstützung",
-          "description": "Wir sind nicht nur Entwickler; wir sind Teil der Community. Wir leben von Ihrem Feedback und bieten direkten, reaktionsschnellen Support, um sicherzustellen, dass sich unsere Projekte mit Ihren Bedürfnissen weiterentwickeln."
-        }
-      ]
+    "title": "Unsere Hunde",
+    "subheader":"Alle unsere Hunde",
+    "items": [
+      {
+        "title": "Viva",
+        "description": "Ausgenzeichnt mit Jugend Champion in Deutschland"
+      },
+      {
+        "title": "Karl",
+        "description": "Ausgenzeichnt mit Jugend Champion in Deutschland"
+      },
+      {
+        "title": "Pascha",
+        "description": "Ausgenzeichnt mit Jugend Champion in Deutschland"
+      }
+    ]
     },
-    "footer-page": {
-      "left-title": "Werden Sie Teil unserer Community",
-      "left-button": "Kostenlos abonnieren",
-      "policy": "Datenschutzbestimmungen",
-      "terms": "Nutzungsbedingungen",
-      "copyright": "Urheberrecht © ",
-      "giftbytes": "GiftBytesProductions"
+    "footer-page":{
+      "left-title": "Kontakt",
+      "left-button": "Subscribe for free",
+      "policy": "Privacy Policy",
+      "terms": "Terms of service",
+      "copyright": "Copyright © ",
+      "giftbytes": "VonMariPearl"
     },
-    "latest-page": {
-      "title": "Aktuelles",
+    "latest-page":{
+      "title": "Latest",
       "article": [
         {
-          "tag": "Projekte",
-          "title": "Ankündigung eines neuen Projekts",
-          "description": "Wir kündigen an, dass unser neues Projekt ein kostenlos spielbares Desktop-Videospiel sein wird, das auf allen Betriebssystemen und Plattformen verfügbar sein wird",
-          "author": "Michael Schenk, Entwickler"
+          "tag": "Projects",
+          "title": "New Project announcement",
+          "description": "We announce that our new project will be a free to play desktop video game that will be available on all operating systems and platforms",
+          "author": "Michael Schenk, Developer"
         },
         {
-          "tag": "Projekte",
-          "title": "TouchSlider ist live",
-          "description": "Wir kündigen an, dass unser mobiles Videospiel TouchSlider kostenlos für IOS und Android heruntergeladen werden kann",
-          "author": "Michael Schenk, Entwickler"
-        },
-        {
-          "tag": "Website",
-          "title": "Neue Website",
-          "description": "Wir kündigen an, dass unsere Website endlich live und öffentlich ist",
-          "author": "Michael Schenk, Entwickler"
+          "tag": "Projects",
+          "title": "TouchSlider is live",
+          "description": "We announce that that our mobile video game TouchSlider is avaible for IOS And Android to download for free",
+          "author": "Michael Schenk, Developer"
         },
         {
           "tag": "Website",
-          "title": "Neue Domain",
-          "description": "Wir kündigen an, dass unsere Domain registriert ist",
-          "author": "Michael Schenk, Entwickler"
+          "title": "New website",
+          "description": "We announce that our website is finally live and public",
+          "author": "Michael Schenk, Developer"
+        },
+        {
+          "tag": "Website",
+          "title": "New Domain",
+          "description": "We announce that our domain is registred",
+          "author": "Michael Schenk, Developer"
         }
       ]
     },
-    "principles-page": {
-      "title": "Unsere Prinzipien",
-      "subheader": "Diese Werte stehen im Mittelpunkt von allem, was wir bauen, von der ersten Zeile Code bis zum endgültigen Nutzererlebnis",
-      "items": [
+    "principles-page":{
+      "title": "Über mich",
+      "subheader": "",
+      "items":[
         {
-          "title": "Überall zugänglich",
-          "description": "Wir glauben, dass großartige Software für jeden, auf jedem Gerät, funktionieren sollte. Unsere Projekte werden von Grund auf sorgfältig für plattformübergreifende Kompatibilität und Zugänglichkeit konzipiert"
+          "title": "Vertauensvoll",
+          "description": ""
         },
         {
-          "title": "Durchdacht & leistungsstark",
-          "description": "Wir liefern vollständige und hochoptimierte Erlebnisse. Unser Fokus auf saubere Architektur und strenge Tests stellt sicher, dass jedes Produkt stabil, leistungsstark und vom ersten Tag an bereit zum Genießen ist"
+          "title": "Vertauensvoll",
+          "description": ""
         },
         {
-          "title": "Intuitives Design",
-          "description": "Wir glauben, dass leistungsstarke Software nicht kompliziert sein muss. Unsere Leidenschaft ist es, saubere, intuitive Benutzeroberflächen zu schaffen, die jede Interaktion unkompliziert und angenehm gestalten"
+          "title": "Vertauensvoll",
+          "description": ""
         },
         {
-          "title": "Angetrieben von Innovation",
-          "description": "Wir bauen mit Blick auf die Zukunft. Indem wir die neueste Software- und Hardware-Technologie nutzen, schaffen wir zukunftsorientierte Produkte mit leistungsstarken, hochmodernen Funktionen"
+          "title": "Vertauensvoll",
+          "description": ""
         },
         {
-          "title": "Engagierter Support",
-          "description": "Unsere Beziehung endet nicht beim Download. Wir bieten freundlichen, reaktionsschnellen Support direkt von unserem Team, um sicherzustellen, dass Sie immer eine großartige Erfahrung mit unseren Produkten haben"
+          "title": "Vertauensvoll",
+          "description": ""
         },
         {
-          "title": "Sorgfältige Handwerkskunst",
-          "description": "Wir glauben, dass Exzellenz in den Details liegt. Vom ersten Konzept bis zur letzten Codezeile wird jedes Element unserer Arbeit sorgfältig geplant und präzise ausgeführt, um ein makelloses Endprodukt zu schaffen"
+          "title": "Vertauensvoll",
+          "description": ""
         }
       ]
     },
-    "testimonials-page": {
-      "title": "Testimonials",
-      "subheader": "Sehen Sie, was unsere Kunden, Entwickler und Tester an unseren Produkten lieben",
-      "testimonial": [
+    "testimonials-page":{
+      "title": "Erfolge",
+      "subheader": "Das sind die Erfolge aller unserer Hunde",
+      "testimonial":
+      [
         {
-          "name": "Nil Akash",
-          "occupation": "Kunde",
-          "testimonial": "Schönes Spiel, jeder kann es genießen und spielen!"
+          "name": "Viva",
+          "occupation": "Champion",
+          "testimonial": "No.1 Jugend"
         },
         {
-          "name": "Joy Roy",
-          "occupation": "Tester (anonym)",
-          "testimonial": "Dieses Spiel ist absolut perfekt, um es auf Reisen oder in der Freizeit zu spielen"
+          "name": "Viva",
+          "occupation": "Champion",
+          "testimonial": "No.1 Jugend"
         },
         {
-          "name": "Anita Roy",
-          "occupation": "Kunde (internes Testen)",
-          "testimonial": "Lustig und rasant! Die 'Tippen-zum-Drehen'-Mechanik ist genial. Ich liebe es, zu versuchen, meinen vorherigen Highscore zu schlagen"
+          "name": "Viva",
+          "occupation": "Champion",
+          "testimonial": "No.1 Jugend"
         },
         {
-          "name": "Michael Schenk",
-          "occupation": "Entwickler",
-          "testimonial": "Ich liebe es absolut, wie vielseitig dieses Produkt ist! Egal, ob ich an Arbeitsprojekten arbeite oder meinen Lieblingshobbys nachgehe, es passt sich nahtlos meinen wechselnden Bedürfnissen an. Sein intuitives Design hat meinen Alltag wirklich verbessert und Aufgaben effizienter und angenehmer gemacht"
+          "name": "Viva",
+          "occupation": "Champion",
+          "testimonial": "No.1 Jugend"
         },
         {
-          "name": "Michael Schenk",
-          "occupation": "Entwickler",
-          "testimonial": "Eines der herausragenden Merkmale dieses Produkts ist der außergewöhnliche Kundensupport. Meiner Erfahrung nach war das Team hinter diesem Produkt schnell bei der Beantwortung und unglaublich hilfsbereit. Es ist beruhigend zu wissen, dass sie fest hinter ihrem Produkt stehen"
+          "name": "Viva",
+          "occupation": "Champion",
+          "testimonial": "No.1 Jugend"
         },
         {
-          "name": "Michael Schenk",
-          "occupation": "Entwickler",
-          "testimonial": "Das Maß an Einfachheit und Benutzerfreundlichkeit dieses Produkts hat mein Leben erheblich vereinfacht. Ich danke den Entwicklern dafür, dass sie eine Lösung geliefert haben, die nicht nur die Erwartungen der Nutzer erfüllt, sondern übertrifft"
+          "name": "Viva",
+          "occupation": "Champion",
+          "testimonial": "No.1 Jugend"
         }
       ]
     },
-    "mode": {
+    "mode":{
       "system": "System",
-      "light": "Hell",
-      "dark": "Dunkel"
+      "light": "Light",
+      "dark": "Dark"
     }
   }
 }
